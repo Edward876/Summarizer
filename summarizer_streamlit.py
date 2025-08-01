@@ -9,9 +9,7 @@ import torch
 import numpy as np
 from collections import Counter
 
-# Import functions from the original script
-# (Keeping all in the same file for simplicity)
-# ---------------------------------------------------
+
 
 def create_safe_summarizer():
     """
